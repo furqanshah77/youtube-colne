@@ -1,0 +1,22 @@
+.top {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.top input {
+    border-radius: 7px;
+}
+
+.top button {
+    border-radius: 7px;
+}
+
+.clone {
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.clone iframe {
+    border-radius: 7px;
+    margin-top: 5px;
+}
